@@ -1,1 +1,2 @@
 # Git_Tutorial
+To learn Git and Git hub purpose
