@@ -1,1 +1,5 @@
-# My Git tutorial project
+<<<<<<< HEAD
+=======
+# Git_Tutorial
+To learn Git and Git hub purpose
+>>>>>>> 
